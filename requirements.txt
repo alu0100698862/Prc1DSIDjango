@@ -96,7 +96,7 @@ warlock==1.1.0
 websockify==0.5.1
 wsgiref==0.1.2
 zope.interface==4.0.5
-Django==1.6.2
+Django==1.11.23
 dj-database-url==0.2.2
 dj-static==0.0.5
 gunicorn==18.0
